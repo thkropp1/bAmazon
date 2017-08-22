@@ -241,5 +241,4 @@ function createProduct() {
         displayTable(); // Call the function to display the inventory and get the user's inputs
       }
     }); // function answer
-
 } // createProduct
