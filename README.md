@@ -1,5 +1,5 @@
 # bAmazon
-I created an Amazon-like storefront using MySQL. The app will take in orders from customers and deplete stock from the store's inventory.
+I created an Amazon-like storefront using MySQL. The app will take in orders from customers and deplete stock from the store's inventory. It also allows the manager to manage the store's inventory.
 
 The app prompts users with two messages:
 
